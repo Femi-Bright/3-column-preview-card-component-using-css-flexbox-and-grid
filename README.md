@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/3-column-preview-card-component-using-css-flexbox-and-grid-zVKlbu8lp5](https://www.frontendmentor.io/solutions/3-column-preview-card-component-using-css-flexbox-and-grid-zVKlbu8lp5)
+- Live Site URL: [https://fb-3-column-preview-card-component.netlify.app/](https://fb-3-column-preview-card-component.netlify.app/)
 
 ## My process
 
